@@ -1,4 +1,6 @@
 # employee
+![image](https://user-images.githubusercontent.com/64220153/230735868-cf52fab3-f4db-47ba-a20e-15087c4ba4b1.png)
+
 
 ## Project setup
 ```
